@@ -1,0 +1,15 @@
+/Users/rostislavnosovskij/Desktop/lesson 2.0/example/bin/Debug/net6.0/example
+/Users/rostislavnosovskij/Desktop/lesson 2.0/example/bin/Debug/net6.0/example.deps.json
+/Users/rostislavnosovskij/Desktop/lesson 2.0/example/bin/Debug/net6.0/example.runtimeconfig.json
+/Users/rostislavnosovskij/Desktop/lesson 2.0/example/bin/Debug/net6.0/example.dll
+/Users/rostislavnosovskij/Desktop/lesson 2.0/example/bin/Debug/net6.0/example.pdb
+/Users/rostislavnosovskij/Desktop/lesson 2.0/example/obj/Debug/net6.0/example.csproj.AssemblyReference.cache
+/Users/rostislavnosovskij/Desktop/lesson 2.0/example/obj/Debug/net6.0/example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rostislavnosovskij/Desktop/lesson 2.0/example/obj/Debug/net6.0/example.AssemblyInfoInputs.cache
+/Users/rostislavnosovskij/Desktop/lesson 2.0/example/obj/Debug/net6.0/example.AssemblyInfo.cs
+/Users/rostislavnosovskij/Desktop/lesson 2.0/example/obj/Debug/net6.0/example.csproj.CoreCompileInputs.cache
+/Users/rostislavnosovskij/Desktop/lesson 2.0/example/obj/Debug/net6.0/example.dll
+/Users/rostislavnosovskij/Desktop/lesson 2.0/example/obj/Debug/net6.0/refint/example.dll
+/Users/rostislavnosovskij/Desktop/lesson 2.0/example/obj/Debug/net6.0/example.pdb
+/Users/rostislavnosovskij/Desktop/lesson 2.0/example/obj/Debug/net6.0/example.genruntimeconfig.cache
+/Users/rostislavnosovskij/Desktop/lesson 2.0/example/obj/Debug/net6.0/ref/example.dll
